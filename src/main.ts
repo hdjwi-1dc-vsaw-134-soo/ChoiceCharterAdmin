@@ -18,8 +18,15 @@ WA.onInit().then(() => {
     })
 
      // Julia custom
+    WA.room.onEnterLayer("roof-appear-zone").subscribe(() => {
+      WA.room.showLayer("roof-appear");
+      console.log("HHHHHIIIIIIIII")
+    });
+    
+
      WA.room.onEnterLayer("floor").subscribe(() => {
       WA.room.hideLayer("roof");
+      WA.room.hideLayer("roof-appear");
       WA.room.hideLayer("walls-bg-front");
       WA.room.hideLayer("sign");
     });
