@@ -10,7 +10,7 @@ When lockdowns raised new problems, Catherine moved into developing online learn
 
 Learn more about us at https://100roadsdesign.com. 
 
-# About the map
+## About the map
 
 There are two virtual campuses in this repository.
 
@@ -22,6 +22,6 @@ Map name: Choice Charter School Admin.
 
 Map name: Choice Charter School Admin Second Floor.
 
-# Copyright
+## Copyright
 
 This map is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC.
